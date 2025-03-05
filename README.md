@@ -7,4 +7,4 @@ This repository contains the material used to analyze the votes for the NPIS Mod
 
 - `vote_analysis_public.ipynb` is the notebook containing all the python code to analyze the votes
 
-For any question of the dataset of analysis, contact [Arnaud Legout](arnaud.legout@inria.fr)
+For any question of the dataset of analysis, contact [Arnaud Legout](mailto:arnaud.legout@inria.fr)
